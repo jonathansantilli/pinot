@@ -38,7 +38,7 @@
     <pinot.root>${basedir}/../..</pinot.root>
     <maven.version>3.3.3</maven.version>
     <fmpp.version>0.9.16</fmpp.version>
-    <freemarker.version>2.3.28</freemarker.version>
+    <freemarker.version>2.3.31</freemarker.version>
   </properties>
 
   <dependencies>
